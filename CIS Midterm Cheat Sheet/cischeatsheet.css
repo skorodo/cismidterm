@@ -1,0 +1,18 @@
+body{
+background-color: lightblue;
+font family: "Lucida Console", Courier, monospace;
+text-align: justify;
+}
+
+h1{
+color: deeppink;
+}
+
+section{
+  color:deeppink;
+}
+
+p{
+  color:purple;
+  border: 1px solid orange;
+}
